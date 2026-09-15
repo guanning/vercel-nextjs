@@ -39,7 +39,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${comforter.className} h-full antialiased`}
+      className={`${inter.className} h-full antialiased`}
     >
       <body >
         {children}
