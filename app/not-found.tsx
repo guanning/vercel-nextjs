@@ -6,7 +6,7 @@ export const metadata = {
 
 export default function NotFound() {
     return (
-        <div className="text-white text-center mt-10">
+        <div className="flex min-h-screen items-center justify-center">
             <h1>自定义全局NotFound</h1>
         </div>
     )
