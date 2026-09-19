@@ -1,0 +1,29 @@
+{
+  "Posts": [
+    {
+      "id": "wkr7x1c9",
+      "title": "训练营6",
+      "content": "Vue 从精通到入门"
+    },
+    {
+      "id": "jb2kmfjd",
+      "title": "训练营5",
+      "content": "React5 从精通到入门"
+    },
+    {
+      "id": "a1ts8kmn",
+      "title": "训练营3",
+      "content": "React4 从精通到入门"
+    },
+    {
+      "id": "7nd9686c",
+      "title": "训练营2",
+      "content": "React2 从精通到入门"
+    },
+    {
+      "id": "4y4ha7cv",
+      "title": "训练营1",
+      "content": "React 从精通到入门"
+    }
+  ]
+}
